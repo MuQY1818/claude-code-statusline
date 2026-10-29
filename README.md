@@ -4,9 +4,7 @@ A compact [Claude Code](https://code.claude.com) status line that shows prompt-c
 
 一个 Claude Code 状态栏脚本，一行显示缓存命中率、缓存过期倒计时、5 小时 / 7 天额度、上下文大小和本次会话花费。
 
-```
-cache 99% avg 94% ⏱ 47:36 | 5h ▮▮▮▮▮▮▮▮▮▮ 2% ↻4h36m | 7d ▮▮▮▮▮▮▮▮▮▮ 76% ↻13h56m | ↑68.6k ↓9.6k ◆1.0M | $206.51
-```
+![statusline screenshot](assets/statusline.png)
 
 ## 显示内容
 
